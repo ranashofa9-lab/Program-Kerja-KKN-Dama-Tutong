@@ -2,7 +2,7 @@
 
 Repository ini berisi kode sumber untuk website profil dan informasi **Gampong Dama Tutong**, yang dibangun sebagai program kerja pengabdian masyarakat oleh KKN Kelompok 11 Teknik Informatika.
 
-🔗 **Live Demo:** [damatutong.vercel.app](https://damatutong.vercel.app/)
+🔗 **Live Demo:** [damatutong.vercel.app](https://gampongdamatutong.vercel.app/)
 
 ## ✨ Fitur Utama
 - **Profil Desa:** Informasi demografi penduduk, pembagian wilayah dusun, serta Visi & Misi gampong.
